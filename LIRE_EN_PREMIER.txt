@@ -1,0 +1,9 @@
+AMMGROUP Digital - 3 invitations de mariage coutumier
+
+1. Decompressez ce fichier ZIP sur votre ordinateur.
+2. Ouvrez index.html dans Chrome ou un autre navigateur pour consulter le catalogue.
+3. Les trois sites sont dans les dossiers royal, cinema et violet (index.html).
+4. Les invitations PDF sont dans le dossier pdf.
+5. Pour personnaliser le mariage, modifiez assets/config.js.
+
+Attention : les noms/dates sont fictifs. Les boutons de contact doivent etre configures avec les vrais numeros. Le RSVP est une demonstration locale sans base de donnees.
